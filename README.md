@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Android Jetpack, MVVM, Kotlin, English and so on
+
+![](https://github-readme-stats.vercel.app/api?username=jhbxyz&show_icons=true)
+
+
+
 <!--
 **jhbxyz/jhbxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
