@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Android Jetpack, MVVM, Kotlin, algorithm, English and so on.
+🌱 I’m currently learning Android Jetpack, MVVM, Kotlin, English and so on.
 
 <!--
 
